@@ -28,14 +28,14 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha19980324&show_icons=true&locale=en&layout=compact" alt="harsha19980324" /></p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=harsha19980324&show_icons=true&locale=en&layout=compact" alt="harsha19980324" /></p>
 
 <table>
 <th>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha19980324&" alt="harsha19980324" /></p>
 </th>
 <th>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha19980324&show_icons=true&locale=en" alt="harsha19980324" /></p>
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=harsha19980324&show_icons=true&locale=en" alt="harsha19980324" /></p>
 </th>
 </table>
 
