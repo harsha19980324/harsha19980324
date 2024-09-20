@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Kunkuma</h1>
-<h2 align="center"><i><b>Software Engineering Graduate student at SLIIT</b></i></h2><br>
+<h2 align="center"><i><b>Software Engineering Graduate Student at SLIIT</b></i></h2><br>
 
 
 - 🌱 I’m currently learning **UI/UX design, Web design, Software Development, and App Development.**
